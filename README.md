@@ -1,4 +1,5 @@
 **Car Price Prediction**
+
 **Overview**
 
 This project aims to predict car prices using various machine learning techniques. The dataset is sourced from the quikr_car.csv file, and the script preprocesses the data to make it suitable for building predictive models. The project is implemented in Python and makes use of popular data science libraries such as pandas, numpy, matplotlib, and seaborn.
